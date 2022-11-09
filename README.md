@@ -33,7 +33,7 @@ Using Terraform, Create Infrastructure that is required for this Project.
 
 ## Instructions
 1. Create a Branch in this repo, finish your coding & Raise a Pull Request
-2. Update README.md with full of instructions, steps and screenshots as required.
+2. Create INSTRUCTIONS.md with full of instructions, steps and screenshots as required.
 3. Follow best practises while writing terraform code. for ex: modules, naming conventions, locals, variables, tf.vars as needed
 4. Use Azure DevOps YAML Pipelines
 
