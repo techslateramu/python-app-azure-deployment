@@ -24,9 +24,10 @@ Using Terraform, Create Infrastructure that is required for this Project.
 <img width="641" alt="Screenshot 2022-11-09 at 8 08 54 PM" src="https://user-images.githubusercontent.com/105220391/200930852-2364d611-fa19-4b8f-a2c1-bd725daa9ac3.png">
 
 ### SubTask 3 (Create Application)
-1. Create a Simple UI ( Using Python Flask Application, BootStrap CSS & Jinja2 Template)
+1. Create a Simple UI ( Using Python Flask Application, BootStrap CSS & Jinja2 Template).
 2. UI Should contain two fields ( Name, City) and Submit Button
-3. Once Clicking on Submit Should save data into a Database 
+3. Once Clicking on Submit Should save data into a Database.
+4. Containerise Python application and push to Azure Container Registry and Run it as "Azure Container Instance"
 
 <br>
 <br>
